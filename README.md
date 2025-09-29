@@ -45,20 +45,20 @@ Where:
 
 Rewritten as first-order ODEs:
 
-[
+$$
 \begin{aligned}
-x_1 &= x \quad \text{(position)} \
-x_2 &= \dot{x} \quad \text{(velocity)} \
-\dot{x}_1 &= x_2 \
+x_1 &= x \quad \text{(position)} \\
+x_2 &= \dot{x} \quad \text{(velocity)} \\
+\dot{x}_1 &= x_2 \\
 \dot{x}_2 &= \frac{F - c x_2 - k x_1}{m}
 \end{aligned}
-]
+$$
 
-The system is solved with the **Runge-Kutta 4th Order Method (RK4):**
+The RK4 update rule is:
 
-[
+$$
 x_{n+1} = x_n + \frac{1}{6}(k_1 + 2k_2 + 2k_3 + k_4)
-]
+$$
 
 ---
 
@@ -120,10 +120,11 @@ rk4-mass-spring-damper/
 ## 📊 Examples / Output
 
 Simulation output plots:
-
-![image alt](https://github.com/FARZAD-HUSSAIN/rk4-mass-spring-damper/blob/850690186db7ffc45b457d97c43c60179b74ef81/Figure_1.png)
-                    *Figure: Position and velocity response of the mass-spring-damper system.*
-
+<p align="center">
+    ![image alt](https://github.com/FARZAD-HUSSAIN/rk4-mass-spring-damper/blob/850690186db7ffc45b457d97c43c60179b74ef81/Figure_1.png)
+    <br>
+    <em>Figure: Position and velocity response of the mass-spring-damper system.</em>
+</p>
 ---
 
 ## 🔧 Customization
