@@ -121,7 +121,7 @@ rk4-mass-spring-damper/
 
 Simulation output plots:
 <p align="center">
-    ![image alt](https://github.com/FARZAD-HUSSAIN/rk4-mass-spring-damper/blob/850690186db7ffc45b457d97c43c60179b74ef81/Figure_1.png)
+    <img src="https://github.com/FARZAD-HUSSAIN/rk4-mass-spring-damper/blob/850690186db7ffc45b457d97c43c60179b74ef81/Figure_1.png" alt="Position vs Velocity Plot" width ="600"/>    
     <br>
     <em>Figure: Position and velocity response of the mass-spring-damper system.</em>
 </p>
