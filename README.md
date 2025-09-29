@@ -119,13 +119,12 @@ rk4-mass-spring-damper/
 
 ## 📊 Examples / Output
 
-Simulation output plots:
+Simulation output plot:
 <p align="center">
     <img src="https://github.com/FARZAD-HUSSAIN/rk4-mass-spring-damper/blob/850690186db7ffc45b457d97c43c60179b74ef81/Figure_1.png" alt="Position vs Velocity Plot" width ="600"/>    
     <br>
     <em>Figure: Position and velocity response of the mass-spring-damper system.</em>
 </p>
----
 
 ## 🔧 Customization
 
