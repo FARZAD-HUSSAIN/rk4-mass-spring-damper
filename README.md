@@ -27,12 +27,6 @@ This project models the dynamics of mechanical vibrations and demonstrates the u
 The mass-spring-damper system is a fundamental mechanical model used to study **vibrations, oscillations, and control systems**.
 This project numerically simulates its motion by solving the governing differential equations using the **RK4 method**, which is known for its balance of accuracy and efficiency.
 
-This repository is ideal for:
-
-* Students learning numerical methods and dynamics
-* Engineers analyzing vibration systems
-* Anyone exploring simulation techniques in Python
-
 ---
 
 ## 📐 Mathematical Background
