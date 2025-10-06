@@ -17,8 +17,6 @@ This project models the dynamics of mechanical vibrations and demonstrates the u
 8. [Customization](#customization)
 9. [Comparison / Validation](#comparison--validation)
 10. [Applications](#applications)
-11. [Contributing](#contributing)
-12. [Acknowledgements / References](#acknowledgements--references)
 
 ---
 
@@ -163,21 +161,6 @@ Mass-spring-damper systems are widely applicable in:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit changes (`git commit -m "Add new feature"`)
-4. Push to branch (`git push origin feature-name`)
-5. Open a Pull Request
-
----
-
-## 📚 Acknowledgements / References
-
-* Numerical Methods for Engineers – Chapra & Canale
 * Ogata, K. *Modern Control Engineering*
 * MIT OpenCourseWare – Differential Equations and Dynamical Systems
 
