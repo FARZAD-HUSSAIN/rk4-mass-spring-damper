@@ -160,8 +160,3 @@ Mass-spring-damper systems are widely applicable in:
 * Seismology and wave propagation studies
 
 ---
-
-* Ogata, K. *Modern Control Engineering*
-* MIT OpenCourseWare – Differential Equations and Dynamical Systems
-
----
